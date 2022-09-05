@@ -15,3 +15,4 @@ Online learning has become a trend since the breakout of Covid-19. However, ther
 
 To this end, our system includes functions such as online editing, real-time feedback interaction, and progress tracking. We will provide a full range of courses from elementary to advanced. Students can have their unique accounts to track progress, record their achievements and find suitable progress. By embedding this system in the learning mall, there is no doubt that all XJTLUers can benefit from it.
 
+Accessible: http://114.115.249.201:8002/welcome
